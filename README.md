@@ -2,7 +2,7 @@
 
 ###### Sobre o Matheus
 - Estudando Front-End na EBAC 
-- Criação de Modelos 3D na Unity (Terrenos e Automobilística Simples) 
+- Criação de Modelos 3D para Unity (Terrenos e Automobilística Simples) 
 - Aprendendo sobre o Mundo full stack web developer 
 
 ### Detelhes
